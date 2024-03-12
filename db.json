@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "text": "a title",
+      "id": "c716"
+    },
+    {
+      "id": "f63f",
+      "text": "Hey! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum earum expedita quia <b>nesciunt</b> soluta vero incidunt! Inventore nam ducimus iste natus. Soluta laboriosam, repellendus neque nemo porro at? Est, dolorem!"
+    },
+    {
+      "id": "8265",
+      "text": "Enter email...dsadsa"
+    },
+    {
+      "id": "b6c6",
+      "text": "<b>fdsfds</b><u>gfdgfdg</u>"
+    },
+    {
+      "id": "0df8",
+      "text": "привет олег,<b> как дела?</b>"
+    }
+  ]
+}
